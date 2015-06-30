@@ -1,0 +1,26 @@
+#textBox {
+    width: 400px;
+    display: inline-block; 
+    margin-top: 10px;
+}
+
+#logo {
+    width: 200px;
+    height: 40px;
+    display: block;
+    margin-top: 6px;
+}
+
+.container-fluid {
+    width:880px;
+    height:70px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#navigation-bar {
+     background-color: #EEF9FF;
+}
